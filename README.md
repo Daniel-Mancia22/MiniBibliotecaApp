@@ -9,3 +9,6 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo. L
 - **React Native** - Desarrollo nativo con JavaScript
 - **Context API** - Gestión de estado global
 - **Firebase** - Persistencia de datos
+
+## 👨🏽‍💻 Desarrollador
+- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
