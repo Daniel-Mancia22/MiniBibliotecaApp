@@ -10,6 +10,17 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo. L
 - **Context API** - Gestión de estado global
 - **Firebase** - Persistencia de datos
 
+## 🎯Funcionalidades
+
+- **Drawer Navigator:** Menú lateral con opciones de Inicio, Configuración y About
+- **Home Screen:** Cuadrícula de colecciones de libros (mínimo 5 colecciones)
+- **Tab Navigator:** Navegación por pestañas dentro de cada colección (Libros, Favoritos, Pendientes)
+- **Stack Navigator:** Navegación en pila para lista de libros → detalle → lectura
+- **Gestión de Libros:**
+   - Lista de libros con título, miniatura y autor. <br>
+   - Pantalla de detalle con imagen grande, descripción y botones de acción. <br>
+   - Pantalla de lectura con contenido scrollable
+
 ## 👨🏽‍💻 Desarrollador
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
 
