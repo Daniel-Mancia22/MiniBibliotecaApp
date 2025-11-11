@@ -21,6 +21,8 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo. L
    - Pantalla de detalle con imagen grande, descripción y botones de acción. <br>
    - Pantalla de lectura con contenido scrollable
 
+## 🎨 Características Técnicas
+
 ## 👨🏽‍💻 Desarrollador
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
 
