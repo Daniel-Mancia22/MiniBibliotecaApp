@@ -1,27 +1,45 @@
 # 📚 Mini Biblioteca Digital App 
-Este proyecto es una aplicación móvil desarrollada en React Native con Expo. La aplicación simula una mini biblioteca digital donde los usuarios pueden explorar colecciones de libros, marcar favoritos, gestionar lecturas pendientes y leer contenido de libros directamente en la app, asi como tambien revisar el perfil de quien desarrollo la app.
+Este proyecto es una aplicación móvil desarrollada en React Native con Expo SDK 54 que implementa un sistema completo de gestión de biblioteca digital. La aplicación permite a los usuarios registrarse, explorar libros, gestionar favoritos, mantener una lista de lecturas pendientes y consultar un chatbot inteligente para recomendaciones.
 
 ## 🛠 Tecnologías Utilizadas
 
-- **Expo** - Framework para desarrollo móvil
-- **React Navigation** - Navegación (Drawer, Tab, Stack)
+- **Expo SDK 54** - Framework para desarrollo móvil
+- **React Navigation** - Navegación (Tabs + Stacks)
 - **@expo/vector-icons** - Iconografía consistente
-- **React Native** - Desarrollo nativo con JavaScript
-- **Context API** - Gestión de estado global
-- **Firebase** - Persistencia de datos
+- **AsyncStorage ** - Almacenamiento local persistente
+- **Firebase Firestore** - Base de datos en tiempo real
+- **API Groq** - Servicios de inteligencia artificial
 
 ## 🎯Funcionalidades
 
-- **Drawer Navigator:** Menú lateral con opciones de Inicio, Configuración y About
-- **Home Screen:** Cuadrícula de colecciones de libros (mínimo 5 colecciones)
-- **Tab Navigator:** Navegación por pestañas dentro de cada colección (Libros, Favoritos, Pendientes)
-- **Stack Navigator:** Navegación en pila para lista de libros → detalle → lectura
-- **Gestión de Libros:**
-   - Lista de libros con título, miniatura y autor. <br>
-   - Pantalla de detalle con imagen grande, descripción y botones de acción. <br>
-   - Pantalla de lectura con contenido scrollable
 
-## 🎨 Características Técnicas
+## 🎨 Características de Diseño
+
+- Interfaz intuitiva con navegación fluida
+- Iconos cohesivos usando @expo/vector-icons
+- Estilos responsivos para diferentes dispositivos
+- Feedback visual inmediato para todas las acciones
+- Alertas informativas para confirmaciones y datos de usuario
+
+## 🔧 Configuración e Instalación
+
+**Prerrequisitos:**
+- Node.js y npm instalados
+- Expo CLI
+- Cuenta de Firebase
+- API Key de Groq
+
+**Pasos de Ejecución:**
+
+1. Instalar dependencias
+   
+       npm install
+2. Configurar variables de entorno
+    - Firebase configuration & Groq API key
+
+3. Ejecutar la aplicación
+
+       npx expo start
 
 ## 👨🏽‍💻 Desarrollador
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
