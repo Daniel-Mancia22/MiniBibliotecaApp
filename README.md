@@ -12,6 +12,14 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 
 ## 🎯Funcionalidades
 
+### 🔐 Sistema de Registro
+- **Formulario de registro validado con campos:** Nombre, email y contraseña
+
+- **Almacenamiento:** Seguro en Firebase Firestore
+
+- **Persistencia:** Local del ID de usuario con AsyncStorage
+
+- **Navegación:** Automática al dashboard principal después del registro
 
 ## 🎨 Características de Diseño
 
