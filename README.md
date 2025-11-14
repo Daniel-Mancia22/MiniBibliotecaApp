@@ -6,7 +6,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 - **Expo SDK 54** - Framework para desarrollo móvil
 - **React Navigation** - Navegación (Tabs + Stacks)
 - **@expo/vector-icons** - Iconografía consistente
-- **AsyncStorage ** - Almacenamiento local persistente
+- **AsyncStorage** - Almacenamiento local persistente
 - **Firebase Firestore** - Base de datos en tiempo real
 - **API Groq** - Servicios de inteligencia artificial
 
