@@ -13,13 +13,24 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 ## 🎯Funcionalidades
 
 ### 🔐 Sistema de Registro
+
 - **Formulario de registro validado con campos:** Nombre, email y contraseña
-
 - **Almacenamiento:** Seguro en Firebase Firestore
-
 - **Persistencia:** Local del ID de usuario con AsyncStorage
-
 - **Navegación:** Automática al dashboard principal después del registro
+
+### 📚 Gestión de Libros
+
+- **Explorar Biblioteca:** Lista completa de libros desde la colección global libros_demo
+- **Detalles Completos:** Visualización de imagen grande, título, autor y descripción
+- **Acciones Rápidas:** Agregar a favoritos o marcar como pendiente directamente desde el detalle
+
+#### ❤️ Sistema de Favoritos
+
+- Colección personalizada Daniel_Mancia-favoritos
+- Visualización de miniaturas, títulos y autores
+- Funcionalidad de eliminación de favoritos
+- Sistema de valoración con campos recomendado y rating
 
 ## 🎨 Características de Diseño
 
