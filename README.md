@@ -32,6 +32,19 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 - Funcionalidad de eliminación de favoritos
 - Sistema de valoración con campos recomendado y rating
 
+### 📋 Lista de Pendientes
+
+- Colección personalizada Daniel_Mancia-pendientes
+- Seguimiento del estado de lectura: pendiente ↔ leído
+- Interfaz intuitiva para cambiar estados y eliminar libros
+
+### 🤖 Chatbot Inteligente
+
+- Integración con API de Groq para recomendaciones de libros
+- Historial de conversaciones persistente en Firestore (chat_Daniel_Mancia)
+- Mantenimiento de contexto entre mensajes
+- Interfaz de chat moderna y responsive
+
 ## 🎨 Características de Diseño
 
 - Interfaz intuitiva con navegación fluida
