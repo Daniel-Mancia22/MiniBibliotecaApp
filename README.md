@@ -10,6 +10,16 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 - **Firebase Firestore** - Base de datos en tiempo real
 - **API Groq** - Servicios de inteligencia artificial
 
+## 🗂 Estructura de Navegación
+
+**Tab Navigator Principal**
+- 📖 Libros - Stack Navigator con:
+   - Lista de libros + ícono de perfil
+   - Detalle de libro con acciones
+- ❤️ Favoritos - Gestión de libros favoritos
+- 📋 Pendientes - Control de lista de lectura
+- 🤖 Chat IA - Asistente virtual para recomendaciones
+
 ## 🎯Funcionalidades
 
 ### 🔐 Sistema de Registro
