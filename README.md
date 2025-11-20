@@ -63,6 +63,16 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo SD
 - Feedback visual inmediato para todas las acciones
 - Alertas informativas para confirmaciones y datos de usuario
 
+## 🗄️ Estructura de Datos en Firestore
+
+Colección     | Tipo        | Propósito
+--------------|-------------|---------------
+libro_demo    | Global      | Catálogo general de libros
+Register      | Usuario     | Datos de registro del usuario
+Favoritos     | Usuario     | Libros marcados como favoritos
+Pendiente     | Usuario     | Lista de libros por leer
+chat          | Chat        | Historial de conversaciones con IA
+
 ## 🔧 Configuración e Instalación
 
 **Prerrequisitos:**
